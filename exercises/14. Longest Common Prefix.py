@@ -12,5 +12,3 @@ class Solution(object):
             l += 1
             common_pre = to_check
         return common_pre
-
-
