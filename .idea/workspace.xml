@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b5f0bf6-89aa-4c58-9986-a9adace0e0ed" name="Changes" comment="another hashmap that solved with index used as values should be equal" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2mIzw9EySzCCTHFqxUnzlISzmw2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.14. Longest Common Prefix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.69. Sqrt(x).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Prime Prime.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/exercises" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c69650fc56ca-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15619.17" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b5f0bf6-89aa-4c58-9986-a9adace0e0ed" name="Changes" comment="" />
+      <created>1726779113361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726779113361</updated>
+    </task>
+    <task id="LOCAL-00001" summary="after spending a lot of time challenging with this question, I finally found out the key that I didn't pat attention is we can slice strings just like lists">
+      <option name="closed" value="true" />
+      <created>1728681096928</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728681096928</updated>
+    </task>
+    <task id="LOCAL-00002" summary="so another string-base code that was designed to exceed pretty fast, proud after solving this problem">
+      <option name="closed" value="true" />
+      <created>1728688984122</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728688984122</updated>
+    </task>
+    <task id="LOCAL-00003" summary="pretty easy pointer based problem">
+      <option name="closed" value="true" />
+      <created>1729064753734</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729064753734</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hashmaps, one of my favorite topics, here's my first leetcode hashmap problem that is solved">
+      <option name="closed" value="true" />
+      <created>1729604951888</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729604951888</updated>
+    </task>
+    <task id="LOCAL-00005" summary="another hashmap that solved with index used as values should be equal">
+      <option name="closed" value="true" />
+      <created>1730159333481</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730159333481</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="after spending a lot of time challenging with this question, I finally found out the key that I didn't pat attention is we can slice strings just like lists" />
+    <MESSAGE value="so another string-base code that was designed to exceed pretty fast, proud after solving this problem" />
+    <MESSAGE value="pretty easy pointer based problem" />
+    <MESSAGE value="hashmaps, one of my favorite topics, here's my first leetcode hashmap problem that is solved" />
+    <MESSAGE value="another hashmap that solved with index used as values should be equal" />
+    <option name="LAST_COMMIT_MESSAGE" value="another hashmap that solved with index used as values should be equal" />
+  </component>
+</project>
